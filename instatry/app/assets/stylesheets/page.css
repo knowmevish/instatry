@@ -1,0 +1,15 @@
+ .top {
+      border-bottom: 1px solid #ccc;
+      position: fixed;
+      padding: 10px 10px;
+      top:0;
+      right: 0;
+      left: 0;
+      background: #fff;
+    }
+
+    .top h1 {
+      font-size: 42px;
+      font-weight: 200;
+      line-height: 1em;
+    }
